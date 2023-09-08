@@ -1,0 +1,25 @@
+#root {
+  width: 100vw;
+}
+.mantine-Modal-body {
+  padding: 0;
+}
+
+.mantine-Switch-label	{
+  color: white;
+}
+
+.mantine-Checkbox-input:checked {
+  background-color: #E8F4E8;
+  border-color: #67bd63;
+}
+.mantine-Checkbox-icon {
+  color: #67bd63 !important;
+}
+.mantine-Switch-track {
+  background-color: white !important;
+  border-color: transparent !important;
+}
+.mantine-Switch-thumb {
+  background-color: #67bd63;
+}
